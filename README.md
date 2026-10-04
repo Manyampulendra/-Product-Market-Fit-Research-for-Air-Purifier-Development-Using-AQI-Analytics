@@ -94,7 +94,7 @@ Special thanks to **OpenAI & Perplexity AI** for research assistance during expl
 ---
 
 ## 👨‍💻 About Me
-Hi, I’m **Avik Sarkhel**, an aspiring **Data Analyst** passionate about turning complex environmental and market data into actionable insights for business impact.  
+Hi, I’m **Manyam Pulendra**, an aspiring **Data Analyst** passionate about turning complex environmental and market data into actionable insights for business impact.  
 
 - 💼 LinkedIn: [manyam pulendra](https://www.linkedin.com/in/manyam-pulendra63/)  
 - 📧 Email: manyampulendra55@gmail.com  
